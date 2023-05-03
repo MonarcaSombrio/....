@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <img scr="./img/alurastart logo 1.png" alt="logo da alurastart"
     <meta charset="UTF-8">
     <title>Colégio Olavo Bilac</title>
     <link rel="stylesheet" href="style.css">
@@ -13,6 +12,7 @@
         <ul>
           <li><a href="#sobre">Sobre Nós</a></li>
           <li><a href="#contato">Contato</a></li>
+        <img scr="https://site-criativo-alura.vercel.app/alurastart%20logo.png" alt="alurastart"
         </ul>
       </nav>
     </header>
